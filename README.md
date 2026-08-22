@@ -60,7 +60,7 @@ Plaza is a mobile-first party game platform where users can create and join room
 
 ---
 
-### 💰 "Who Wants to Be a Millionaire?"
+### 💰 "Who Wants to Be a Millionaire?" - `University Project`
 
 **A full-stack quiz platform inspired by the classic game show.**
 
@@ -70,7 +70,7 @@ Users can register, log in, play quizzes and track their results through a leade
 
 ---
 
-### 🎮 GameHub
+### 🎮 GameHub - `University Project`
 
 **A mobile application for purchasing digital games.**
 
@@ -80,17 +80,7 @@ GameHub was developed as a modern mobile application that allows users to browse
 
 ---
 
-### 🛒 GameStore
-
-**An online game store built with Spring Boot.**
-
-A web application designed around browsing and purchasing video games, with a server-side rendered interface and MySQL database.
-
-`Java` `Spring Boot` `Thymeleaf` `MySQL`
-
----
-
-### 🔐 Escape Room Management
+### 🔐 Escape Room Management - `University Project`
 
 **Desktop management system for an escape room business.**
 
