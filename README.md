@@ -1,4 +1,4 @@
-# Hey, I'm Eniz 👋
+# Peace be upon you, I'm Eniz 👋
 
 ### Software Engineering Student · Frontend Developer
 
