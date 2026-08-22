@@ -115,10 +115,15 @@ My work focused on structuring pages, developing reusable UI components and adap
 ## A few things about me
 
 🎓 **Software Engineering** — University of Zenica
+
 💻 **Computer Science & Informatics Technician** — Mixed Secondary School Vitez
+
 🥋 **Karate Black Belt — 2nd Dan**
+
 🏆 **Cantonal Programming Competition** — Participant, 2023
+
 💻 **IT Challenge powered by NSoft** — Participant, 2023
+
 🌍 **Bosnian** — Native · **English** — Advanced
 
 ---
