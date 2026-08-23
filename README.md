@@ -50,7 +50,7 @@ Exploring       →  New tools and technologies
 
 # Selected Work
 
-### 🎯 Plaza
+### 🎯 Plaza - check here: https://plaza-games.vercel.app/
 
 **Real-time party games for you and your crew.**
 
