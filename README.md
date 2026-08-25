@@ -122,7 +122,7 @@ My work focused on structuring pages, developing reusable UI components and adap
 
 🏆 **Cantonal Programming Competition** — Participant, 2023
 
-💻 **IT Challenge powered by NSoft** — Participant, 2023
+💻 **IT Challenge powered by NSoft** — Participant, 2022
 
 🌍 **Bosnian** — Native · **English** — Advanced
 
