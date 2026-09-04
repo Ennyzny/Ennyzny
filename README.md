@@ -80,13 +80,23 @@ GameHub was developed as a modern mobile application that allows users to browse
 
 ---
 
-### 🔐 Escape Room Management - `University Project`
+### 🎲 "Ko Sam Ja?" Quiz - check here: https://murkee2.github.io/ko-sam-ja-kviz/
 
-**Desktop management system for an escape room business.**
+**A Bosnian-language "guess the subject" quiz game.**
 
-The application provides functionality for managing an escape room business and uses a structured architecture based on the DAO pattern.
+Players guess the subject through progressively revealed clues, with daily challenge and free-play modes, plus score and streak tracking.
 
-`Java` `JavaFX` `MySQL` `JDBC` `BCrypt`
+`Next.js` `React` `TypeScript` `CSS`
+
+---
+
+### 🔤 Wordle BA - check here: https://murkee2.github.io/wordle-ba/
+
+**A Wordle-style word-guessing game for the Bosnian language.**
+
+Includes daily and practice modes, custom handling of Bosnian digraphs (dž, lj, nj), and win/streak statistics.
+
+`JavaScript` `Vite` `HTML` `CSS`
 
 ---
 
