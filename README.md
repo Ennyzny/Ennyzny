@@ -1,6 +1,6 @@
 # Peace be upon you, I'm Eniz 👋
 
-### Software Engineering Student · Frontend Developer
+### Software Engineering Student 
 
 I'm a Software Engineering student at the **Faculty of Polytechnic Studies, University of Zenica**, interested in building clean, responsive and interactive web applications, with a growing interest in **embedded systems**.
 
