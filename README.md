@@ -72,7 +72,7 @@ Plaza is a mobile-first party game platform where users can create and join room
 
 ---
 
-### 🔤 Wordle BA - check here: https://murkee2.github.io/wordle-ba/
+### 🔤 Wordle BA - check here: https://wordle-ba.vercel.app/
 
 **A Wordle-style word-guessing game for the Bosnian language.**
 
@@ -82,7 +82,7 @@ Includes daily and practice modes, custom handling of Bosnian digraphs (dž, lj,
 
 ---
 
-### 🎲 "Ko Sam Ja?" Quiz - check here: https://murkee2.github.io/ko-sam-ja-kviz/
+### 🎲 "Ko Sam Ja?" Quiz - check here: https://ko-sam-ja-kviz.vercel.app/
 
 **A Bosnian-language "guess the subject" quiz game.**
 
