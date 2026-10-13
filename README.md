@@ -30,6 +30,7 @@ My current focus is **React, Next.js and TypeScript**. I enjoy taking an idea fr
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white)
 
 **Tools**
 
@@ -102,23 +103,12 @@ Focused on building a modern interface with reusable components, responsive layo
 
 ---
 
-### 💰 "Who Wants to Be a Millionaire?" - `University Project`
+## 🎓 University projects
 
-**A full-stack quiz platform inspired by the classic game show.**
-
-Users can register, log in, play quizzes and track their results through a leaderboard. The application also includes a dedicated admin panel for managing the platform.
-
-`React` `TypeScript` `Vite` `Tailwind CSS` `Radix UI` `Express.js` `MySQL` `JWT`
-
----
-
-### 🎮 GameHub - `University Project`
-
-**A mobile application for purchasing digital games.**
-
-GameHub was developed as a modern mobile application that allows users to browse, purchase and manage their digital game collection.
-
-`.NET MAUI`
+| Project | What | Stack |
+|:-------:|:----:|:-----:|
+| Who Wants to Be a Millionaire? | Full-stack quiz platform with a leaderboard and admin panel | `React` `TypeScript` `Express.js` `MySQL` `JWT` |
+| GameHub | Mobile app for purchasing digital games | `.NET MAUI` |
 
 ---
 
