@@ -61,7 +61,7 @@ A native booking platform for hair salons, beauty salons and other service busin
 
 ---
 
-##  Side projects
+## 🛠️ Side projects
 
 | Project | What | Stack | Link |
 |:-------:|:----:|:-----:|:-----:|
