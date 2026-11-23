@@ -44,7 +44,7 @@ I'm a Software Engineering student at the Faculty of Polytechnic Studies, Univer
 Learning       →  AI Engineering · Machine Learning · Embedded Systems
 Building       →  Personal projects & software applications
 Improving      →  Software architecture · Engineering practices · Problem-solving
-Exploring      →  Artificial Intelligence · Intelligent systems · Embedded technologies
+Focused on     →  Practical applications of AI · Intelligent systems · Embedded technologies
 ```
 
 ---
@@ -91,16 +91,6 @@ Players guess the subject through progressively revealed clues, with daily chall
 
 ---
 
-### 🌐 Demo Website
-
-**Responsive website developed for a German company.**
-
-Focused on building a modern interface with reusable components, responsive layouts and a clean user experience across different screen sizes.
-
-`React` `Next.js` `TypeScript` `Tailwind CSS`
-
----
-
 ## 🎓 University projects
 
 | Project | What | Stack |
@@ -119,6 +109,12 @@ Focused on building a modern interface with reusable components, responsive layo
 During my internship, I worked on a responsive web project using **React, Next.js, TypeScript and Tailwind CSS**.
 
 My work focused on structuring pages, developing reusable UI components and adapting the interface for different screen sizes.
+
+### Project: Demo Website
+
+A responsive website developed for a German company, featuring a modern interface, reusable components and layouts optimized for different screen sizes.
+
+`React` `Next.js` `TypeScript` `Tailwind CSS`
 
 ---
 
