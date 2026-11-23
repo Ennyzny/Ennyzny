@@ -2,7 +2,7 @@
 
 ### Software Engineering Student 
 
-I'm a Software Engineering student at the **Faculty of Polytechnic Studies, University of Zenica**, interested in building clean, responsive and interactive web applications, with a growing interest in **embedded systems**.
+I'm a Software Engineering student at the Faculty of Polytechnic Studies, University of Zenica, with a strong interest in software engineering, embedded systems, and AI engineering. I enjoy exploring different areas of technology, developing practical solutions, and building efficient, reliable, and well-designed software applications.
 
 **📍 Vitez, Bosnia and Herzegovina**
 
