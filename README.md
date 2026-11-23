@@ -4,8 +4,6 @@
 
 I'm a Software Engineering student at the **Faculty of Polytechnic Studies, University of Zenica**, interested in building clean, responsive and interactive web applications, with a growing interest in **embedded systems**.
 
-My current focus is **React, Next.js and TypeScript**. I enjoy taking an idea from a simple concept to a functional interface, experimenting with new technologies and learning through real projects.
-
 **📍 Vitez, Bosnia and Herzegovina**
 
 [📧 Email](mailto:dajiceniz@gmail.com) · [💼 LinkedIn](https://www.linkedin.com/in/eniz-daji%C4%87-209008304/) · [🌐 Portfolio](https://portofolio-dun-iota-49.vercel.app)
