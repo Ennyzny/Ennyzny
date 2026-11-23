@@ -61,33 +61,13 @@ A native booking platform for hair salons, beauty salons and other service busin
 
 ---
 
-### 🎯 Plaza - check here: https://plaza-games.vercel.app/
+##  Side projects
 
-**Real-time party games for you and your crew.**
-
-Plaza is a mobile-first party game platform where users can create and join rooms, play different games with friends and interact through real-time multiplayer experiences.
-
-`Next.js` `React` `TypeScript` `Supabase` `Drizzle` `Tailwind CSS`
-
----
-
-### 🔤 Wordle BA - check here: https://wordle-ba.vercel.app/
-
-**A Wordle-style word-guessing game for the Bosnian language.**
-
-Includes daily and practice modes, custom handling of Bosnian digraphs (dž, lj, nj), and win/streak statistics.
-
-`JavaScript` `Vite` `HTML` `CSS`
-
----
-
-### 🎲 "Ko Sam Ja?" Quiz - check here: https://ko-sam-ja-kviz.vercel.app/
-
-**A Bosnian-language "guess the subject" quiz game.**
-
-Players guess the subject through progressively revealed clues, with daily challenge and free-play modes, plus score and streak tracking.
-
-`Next.js` `React` `TypeScript` `CSS`
+| Project | What | Stack | Link |
+|:-------:|:----:|:-----:|:-----:|
+| Plaza| Real-time party games for you and your crew. | `Next.js` `React` `TypeScript` `Supabase` `Drizzle` `Tailwind CSS`| https://plaza-games.vercel.app/ |
+| Wordle BA | A Wordle-style word-guessing game for the Bosnian language.| `JavaScript` `Vite` `HTML` `CSS` | https://wordle-ba.vercel.app/ |
+| Ko sam ja? | A Bosnian-language "guess the subject" quiz game. | `Next.js` `React` `TypeScript` `CSS` | https://ko-sam-ja-kviz.vercel.app/ |
 
 ---
 
