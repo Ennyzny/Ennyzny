@@ -41,10 +41,10 @@ I'm a Software Engineering student at the Faculty of Polytechnic Studies, Univer
 ## Currently
 
 ```text
-Learning        →  React · Next.js · TypeScript · Flutter
-Building        →  Web & mobile applications, side projects
-Improving       →  Frontend architecture & UI development
-Exploring       →  New tools and technologies
+Learning       →  AI Engineering · Machine Learning · Embedded Systems
+Building       →  Personal projects & software applications
+Improving      →  Software architecture · Engineering practices · Problem-solving
+Exploring      →  Artificial Intelligence · Intelligent systems · Embedded technologies
 ```
 
 ---
